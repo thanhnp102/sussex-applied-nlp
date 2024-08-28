@@ -1,4 +1,4 @@
-# Applied Natural Language Processing (ANLP)
+# Word Analysis
 
 This repository contains the submission for the Applied Natural Language Processing (ANLP) module assignment as part of my master's degree coursework. The assignment involves a series of tasks designed to assess the understanding and application of various Natural Language Processing (NLP) techniques.
 
